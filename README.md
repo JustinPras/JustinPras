@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a personal project "
+- 🌱 I’m currently developing my Python and Backend Development skills
+- 🤔 I’m trying to find a job in Backend Development
