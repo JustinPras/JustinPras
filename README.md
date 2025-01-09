@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a personal project called [untitled](https://google.com)
+- 🔭 I’m currently working on a [portfolio website](https://github.com/JustinPras/JustinPras.github.io)
 - 🌱 I’m currently developing my Python and Backend Development skills
-- 🤔 I’m trying to find a job in Backend Development
+- 🤔 I’m trying to find a full-time role in programming and development
