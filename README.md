@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a recreation of Twitter in Go
-- 🌱 I’m currently developing my Go and Backend Development skills
-- 🤔 I’m trying to find a full-time position in a dev role.
+- I'm currently a software engineer developing online slot games using typescript
+- I'm currently working on my math and c++ skills to break into quant
